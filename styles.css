@@ -146,7 +146,7 @@ span{
 
 /** Hero Section **/
 .hero-section{
-    background-image: url("hero_image.jpg");
+    background-image: url("hero_img.jpg");
     background-size: cover;
     height: 360px;
     display: flex;
@@ -156,7 +156,7 @@ span{
 }
 
 .hero-sms{
-    background-color: white;
+    background-color: rgb(240, 234, 234);
     color: black;
     height: 36px;
     display: flex;
